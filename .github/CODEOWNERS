@@ -1,0 +1,5 @@
+* @LenderAI/code-kebabs
+/.cfn/ @LenderAI/devsecops
+/.github/workflows/deploy* @LenderAI/devsecops
+/.kube/ @LenderAI/devsecops
+serverless.*  @LenderAI/devsecops
